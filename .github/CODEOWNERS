@@ -1,0 +1,6 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# @udplabs/core-collaborator owns any file in the `/infra`
+# directory in the root.
+/infra/ @udplabs/core-collaborator

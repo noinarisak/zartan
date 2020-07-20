@@ -1,0 +1,6 @@
+# Custom ignore
+
+### Terraformer default generated extractions ###
+generated/
+
+# End custom ignore
