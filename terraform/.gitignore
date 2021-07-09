@@ -1,0 +1,3 @@
+# Ignore *.tfvars and securities from getting committed.
+
+*.tfvars
